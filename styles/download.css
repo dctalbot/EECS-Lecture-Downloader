@@ -1,0 +1,26 @@
+#controls-dwnld-btn {
+  outline: 0;
+  font-size: 0.82em;
+  line-height: 29px;
+  font-weight: 700;
+  text-decoration: none;
+  color: #d1d1d1;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.7);
+  background: 0 0;
+  -webkit-tap-highlight-color: transparent;
+  float: right;
+
+  display: block;
+  left: 0 !important;
+  top: 0 !important;
+  position: relative;
+  width: 40px;
+  height: 29px;
+  border: none !important;
+  transition: none !important;
+}
+
+#controls-dwnld-btn svg {
+  padding-top: 6px;
+  fill: #d1d1d1;
+}
