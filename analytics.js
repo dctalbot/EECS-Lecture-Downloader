@@ -5,7 +5,7 @@ function asyncwait() {
   // Use of this source code is governed by a BSD-style license that can be
   // found in the LICENSE file.
 
-  var _AnalyticsCode = "secret";
+  var _AnalyticsCode = "UA-121650190-1";
   /**
    * Below is a modified version of the Google Analytics asynchronous tracking
    * code snippet.  It has been modified to pull the HTTPS version of ga.js
